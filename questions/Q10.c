@@ -1,12 +1,7 @@
 #include <stdio.h>
 
 void swap_values_apart(int arr[], int size, int n) {
-    int temp;
-    for (int i = 0; i + n < size; i++) {
-        temp = arr[i];
-        arr[i] = arr[i+n];
-        arr[i+n] = temp;
-    }
+    
 }
 
 void print_array(int arr[], int size) {
