@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // V1: nested conditionals
-int main(void){
+int main(void) {
     int yr; 
 
     printf("Enter year: ");

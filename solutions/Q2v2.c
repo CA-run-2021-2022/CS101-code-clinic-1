@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // V2: Complex conditionals
-int main(void){
+int main(void) {
     int yr; 
 
     printf("Enter year: ");
